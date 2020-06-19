@@ -1,4 +1,4 @@
-redux learning experience 
+Redux learning experience 
 
 link:https://youtu.be/CVpUuw9XSjY
 
