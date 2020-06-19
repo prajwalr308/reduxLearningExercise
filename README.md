@@ -1,3 +1,11 @@
+redux learning experience 
+
+link:https://youtu.be/CVpUuw9XSjY
+
+pretty straight forward easy to understand the concept.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
